@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+DMM WEBCAMPの学習コンテンツRailsを学ぼうです。
